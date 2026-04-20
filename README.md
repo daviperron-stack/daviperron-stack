@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hola, soy David 
 
-<!--
-**daviperron-stack/daviperron-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Full Stack Junior
+📍 Argentina
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+Soy desarrollador enfocado en crear aplicaciones funcionales y resolver problemas reales.
+
+Actualmente trabajo con:
+
+* HTML, CSS y JavaScript
+* PHP y MySQL
+* Python (automatización y backend)
+
+---
+
+## 🛠️ Tecnologías
+
+* Frontend: HTML, CSS, JavaScript
+* Backend: PHP, Python
+* Base de datos: MySQL, SQLite
+* Herramientas: Git, GitHub
+
+---
+
+## 📌 Proyecto destacado
+
+### 🧾 Sistema de Inventario
+
+Aplicación desarrollada en Python con SQLite que permite gestionar productos.
+
+**Funcionalidades:**
+
+* CRUD completo (crear, leer, actualizar y eliminar)
+* Búsqueda de productos
+* Persistencia de datos
+* Interfaz en consola
+
+🔗 https://github.com/daviperron-stack/inventario-python
+
+---
+
+## 📈 Actualmente aprendiendo
+
+* JavaScript avanzado
+* Desarrollo de APIs
+* Mejores prácticas de programación
+
+---
+
+## 📫 Contacto
+
+* GitHub: https://github.com/daviperron-stack
+* LinkedIn: www.linkedin.com/in/davi-perron
+
+---
